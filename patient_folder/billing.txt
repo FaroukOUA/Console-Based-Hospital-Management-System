@@ -1,0 +1,5 @@
+patient_username,billing_id,amount_due,billing_status,insurance_claims,claim_details,insurance_status
+johndoe,Bill_001,200.00,pending,Claim_001,Submitted on 2023-06-10,Approved
+user1,Bill_001,150.00,paid,Claim_001,Submitted on 2024-01-03,Pending
+1,Bill_001,100.00,paid,Claim_001,Submitted on 2024-04-03,Approved
+1,Bill_002,250.00,pending,Claim_002,Submitted on 2024-06-20,Pending

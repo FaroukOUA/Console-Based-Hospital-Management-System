@@ -1,0 +1,4 @@
+patient_username medical_history prescriptions appointment_history billing_info
+1 Diabetes Metformin A001,A003 Bill_001
+janedoe Asthma Albuterol A002 Bill_002
+1 Asthma Albuterol A004 Bill_001

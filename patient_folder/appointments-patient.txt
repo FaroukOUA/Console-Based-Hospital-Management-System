@@ -1,0 +1,7 @@
+patient_username appointment_id date time doctor_name
+user1 A001 2023-06-02 10:30 Dr.Markwood
+1 A001 2024-06-05 10:30 Dr.Locklin
+1 A003 2024-06-03 11:30 Dr.Markwood
+user2 A001 2023-06-10 14:00 Dr.Locklin
+user1 A002 2024-03-05 11:00 Dr.1
+user1 A003 2024-05-06 10:30 Dr.1

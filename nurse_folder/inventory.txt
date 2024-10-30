@@ -1,0 +1,4 @@
+Bandages, 200
+Needles, 10
+IV Fluid, 10
+Ibuprofen, 20
