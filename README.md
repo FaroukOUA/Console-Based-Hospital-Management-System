@@ -3,10 +3,6 @@
 ## Overview
 The Hospital Management System will be a cornerstone system supporting Hospital in providing exceptional patient care, efficient operations, and a positive experience for patients, doctors, and staff. By prioritizing user needs, state-of-the-art technology, and a commitment to data security, the HMS will position General Hospital as a leader in innovative healthcare delivery.
 
-This project challenges you to design and develop a basic Hospital Management System (HMS) using your programming skills. This system will streamline essential hospital functionalities to improve efficiency and patient care.
-
-Your HMS should include, but not be limited to, the following features:
-
 ## Hospital Administrator
 •	Login and logout from the system
 
