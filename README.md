@@ -43,3 +43,9 @@ Your HMS should include, but not be limited to, the following features:
 •	Inventory Management - Access and manage supplies and medications at the nurse's station directly through the HMS. 
 
 •	Reporting and Analytics (view and search) - Nurses may be able to generate reports on their patients or specific units, allowing them to identify trends and areas for improvement in care delivery.
+
+## Contributions
+- **[FAROUK]:** Nurse Module Lead, Contributing Developer for Doctor and Patient Modules
+- **[RAGUSHIN]:** Doctor Module Lead
+- **[SOO OOWEN]:** Patient Module Lead
+- **[ALI]:** Hospital Administrator Module Lead
